@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pmvdw/workspace/hello_app/app/views/layouts/mailer.text.erb",
+		"/Users/pmvdw/workspace/hello_app/app/models/user.rb",
+		"/Users/pmvdw/workspace/hello_app/db/migrate/20170904163859_create_users.rb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/users_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/config/routes.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/users/index.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/users/show.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/apples/green.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/green_apples/big.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/green_apples/small.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/apples/red.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/application_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/application/index.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/green_apples_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/yyy/zzz.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/zzz/yyy.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/yyy/fff.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/animals/destroy.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/animals/index.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/yyy/edit.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/yyy/index.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/yyy_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/fruits_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/eohf_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/eohf/perd.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/apples_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/pears/big.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/pears/small.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/animals/dogs.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/animals/cat.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/fruits/pear.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/fruits/grapes.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/animals_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/concerns/apples_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/fruits/apple.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/pears_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/controllers/concerns/red_apples_controller.rb",
+		"/Users/pmvdw/workspace/hello_app/app/views/fruits/dogs.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/fruits/cat.html.erb",
+		"/Users/pmvdw/workspace/hello_app/app/views/fruits/dog.html.erb",
+		"/Users/pmvdw/workspace/hello_app/Gemfile",
+		"/Users/pmvdw/workspace/hello_app/Gemfile.lock",
+		"/Users/pmvdw/workspace/hello_app/README.md",
+		"/Users/pmvdw/Desktop/untitled.Appraisals"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"an",
+				"app/controllers/animals_controller.rb"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"cont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"f",
+				"app/controllers/fruits_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile.lock"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
